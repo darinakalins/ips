@@ -12,6 +12,12 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# Advisor_results
+*.dflgadvixe
+*.advixeproj
+*.advixeex  
+*.infoadvixe
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/

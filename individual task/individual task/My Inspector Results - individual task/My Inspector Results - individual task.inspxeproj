@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ <connectionOption></connectionOption>
+ <rdmgr>
+  <timestamp type="u64_t">1543577411</timestamp>
+  <hostname>Darina-PC</hostname>
+  <os>windows</os>
+  <product>Intel® Inspector 2019</product>
+  <buildNumber type="s32_t">569163</buildNumber>
+  <logicalCPUCount type="s32_t">4</logicalCPUCount>
+  <CPUFrequency type="s64_t">2100000000</CPUFrequency>
+  <CPUFamily type="s32_t">6</CPUFamily>
+  <CPUModel type="s32_t">42</CPUModel>
+  <CPUStepping type="s32_t">7</CPUStepping>
+  <CPUBrandName>       Intel(R) Core(TM) i3-2310M CPU @ 2.10GHz</CPUBrandName>
+  <isa>avx</isa>
+ </rdmgr>
+ <contextValues type="bag"/>
+ <All_Configurations-All_Platforms>
+  <analysis_type_settings>
+   <selected_analysis_type_path>C:\Program Files (x86)\IntelSWTools\Inspector 2019\config\analysis_type\ti3.cfg</selected_analysis_type_path>
+  </analysis_type_settings>
+  <target_settings>
+   <selected_workload>
+    <localhost>launch</localhost>
+   </selected_workload>
+   <result_pattern>
+    <localhost>r@@@{at}</localhost>
+   </result_pattern>
+   <workloads>
+    <localhost>
+     <launch type="pointer" type_id="dasID_cctrl2::ApplicationWorkload" ptr_type="dasID_cctrl2::IWorkload">
+      <workload>
+       <targetName>launch</targetName>
+       <enable_app_output_log type="bool">false</enable_app_output_log>
+       <project_id>{5C1DD6F0-383F-450A-8A07-D68497989A4C}</project_id>
+       <launch_app.environment>PATH=C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2019\windows\redist\intel64\compiler;%PATH%&#13;
+PATH=C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2019\windows\redist\intel64\compiler;%PATH%</launch_app.environment>
+       <launch_app.app_to_launch>D:\individual task\x64\Release\individual task.exe</launch_app.app_to_launch>
+       <launch_app.working_folder>D:\individual task\individual task</launch_app.working_folder>
+       <launch_app.environment_prepend>PATH=C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2019\windows\redist\intel64\compiler;</launch_app.environment_prepend>
+       <use_app_dir_as_work_dir type="bool">false</use_app_dir_as_work_dir>
+       <result_directory.path>D:\individual task\individual task\My Inspector Results - individual task\r@@@{at}</result_directory.path>
+       <search_directories>
+        <item>
+         <value>sym=D:\individual task\x64\Debug</value>
+        </item>
+        <item>
+         <value>sym=D:\individual task</value>
+        </item>
+        <item>
+         <value>bin=D:\individual task\x64\Debug</value>
+        </item>
+        <item>
+         <value>bin=D:\individual task</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2019\windows\bin\Intel64</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\amd64</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Windows Kits\8.1\bin\x64</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools\x64</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Windows Kits\8.1\bin\x86</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.6.1 Tools</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\tools</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\ide</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\HTML Help Workshop</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\MSBuild\14.0\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\windows\Microsoft.NET\Framework\v4.0.30319</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\NativeBinaries\x86</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\IntelSWTools\compilers_and_libraries_2019.0.117\windows\mpi\intel64\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\mpirt</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\mpirt</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\ia32_win\compiler</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Haskell Platform\8.2.2\lib\extralibs\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Haskell Platform\8.2.2\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\ProgramData\Oracle\Java\javapath</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Common Files\Microsoft Shared\Windows Live</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live</value>
+        </item>
+        <item>
+         <value>bin=C:\windows\system32</value>
+        </item>
+        <item>
+         <value>bin=C:\windows</value>
+        </item>
+        <item>
+         <value>bin=C:\windows\System32\Wbem</value>
+        </item>
+        <item>
+         <value>bin=C:\windows\System32\WindowsPowerShell\v1.0</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Broadcom\Broadcom 802.11 Network Adapter\Driver</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Windows Live\Shared</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\WIDCOMM\Bluetooth Software</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\WIDCOMM\Bluetooth Software\syswow64</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\110\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\130\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\MATLAB\R2014a\runtime\win64</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\MATLAB\R2014a\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\MATLAB\R2014a\polyspace\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\MySQL\MySQL Server 5.5\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\Skype\Phone</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Haskell Platform\8.2.2\mingw\bin</value>
+        </item>
+        <item>
+         <value>bin=D:/individual task\individual task\%USERPROFILE%\.dnx\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft DNX\Dnvm</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\Microsoft SQL Server\120\Tools\Binn</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files\CMake\bin</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\QuickTime\QTSystem</value>
+        </item>
+        <item>
+         <value>bin=C:\Program Files (x86)\gfortran\bin</value>
+        </item>
+        <item>
+         <value>bin=D:\opencv\build\x64\vc14\bin</value>
+        </item>
+        <item>
+         <value>bin=D:/individual task\individual task</value>
+        </item>
+       </search_directories>
+       <exclude_modules type="bag"/>
+       <context>
+        <contextValue>
+         <id>appdebug</id>
+         <value>off</value>
+        </contextValue>
+        <contextValue>
+         <id>custom_debugger</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>debug_this_problem</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>debug_using</id>
+         <value>gdb</value>
+        </contextValue>
+        <contextValue>
+         <id>heartbeat</id>
+         <value type="bool">true</value>
+        </contextValue>
+        <contextValue>
+         <id>modules_switch</id>
+         <value>knob.modules_switch.include</value>
+        </contextValue>
+        <contextValue>
+         <id>mrte_mode</id>
+         <value>auto</value>
+        </contextValue>
+        <contextValue>
+         <id>process_for_analysis</id>
+         <value></value>
+        </contextValue>
+        <contextValue>
+         <id>suppressions</id>
+         <value>delete</value>
+        </contextValue>
+        <contextValue>
+         <id>targetType</id>
+         <value>launch</value>
+        </contextValue>
+        <contextValue>
+         <id>traceMpi</id>
+         <value type="bool">false</value>
+        </contextValue>
+       </context>
+      </workload>
+     </launch>
+    </localhost>
+   </workloads>
+  </target_settings>
+ </All_Configurations-All_Platforms>
+ <debugger_settings>
+  <debugger_mode>off</debugger_mode>
+  <at_cliname>ti3</at_cliname>
+ </debugger_settings>
+</root>

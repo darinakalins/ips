@@ -1,0 +1,32 @@
+
+=== Start: [2018/11/30 14:35:49] === 
+Analysis started...
+Result file: D:\individual task\individual task\My Inspector Results - individual task\r001ti3\r001ti3.inspxe 
+Found target process d:\individual task\x64\debug\individual task.exe (PID = 8036). Analysis started... 
+Loaded module: c:\windows\system32\kernel32.dll. 
+Loaded module: c:\windows\system32\ntdll.dll. 
+Loaded module: d:\individual task\x64\debug\individual task.exe. 
+Loaded module: c:\windows\system32\kernelbase.dll. 
+Loaded module: c:\windows\system32\msvcp140d.dll. 
+Loaded module: c:\windows\system32\vcruntime140d.dll. 
+Loaded module: c:\windows\system32\ucrtbased.dll. 
+Loaded module: c:\windows\system32\api-ms-win-core-timezone-l1-1-0.dll. 
+Loaded module: c:\windows\system32\api-ms-win-core-file-l2-1-0.dll. 
+Loaded module: c:\windows\system32\api-ms-win-core-localization-l1-2-0.dll. 
+Loaded module: c:\windows\system32\api-ms-win-core-synch-l1-2-0.dll. 
+Loaded module: c:\windows\system32\api-ms-win-core-processthreads-l1-1-1.dll. 
+Loaded module: c:\windows\system32\api-ms-win-core-file-l1-2-0.dll. 
+Unloaded module: c:\windows\system32\kernel32.dll. 
+Unloaded module: c:\windows\system32\ntdll.dll. 
+Unloaded module: d:\individual task\x64\debug\individual task.exe. 
+Unloaded module: c:\windows\system32\kernelbase.dll. 
+Unloaded module: c:\windows\system32\msvcp140d.dll. 
+Unloaded module: c:\windows\system32\vcruntime140d.dll. 
+Unloaded module: c:\windows\system32\ucrtbased.dll. 
+Unloaded module: c:\windows\system32\api-ms-win-core-timezone-l1-1-0.dll. 
+Unloaded module: c:\windows\system32\api-ms-win-core-file-l2-1-0.dll. 
+Unloaded module: c:\windows\system32\api-ms-win-core-localization-l1-2-0.dll. 
+Unloaded module: c:\windows\system32\api-ms-win-core-synch-l1-2-0.dll. 
+Unloaded module: c:\windows\system32\api-ms-win-core-processthreads-l1-1-1.dll. 
+Unloaded module: c:\windows\system32\api-ms-win-core-file-l1-2-0.dll. 
+Process d:\individual task\x64\debug\individual task.exe (PID = 8036) has terminated. 

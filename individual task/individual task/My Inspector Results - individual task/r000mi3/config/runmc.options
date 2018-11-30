@@ -1,0 +1,18 @@
+-r
+D:\individual task\individual task\My Inspector Results - individual task\r000mi3
+--check-invalid-access
+--no-analyze-stack
+--leak-maximum=100000
+--leak-check-on-exit
+--leak-check-on-demand
+--check-resource-leaks
+--leak-check-report-reachable
+--freelist-vol=1000000
+--guard-zone-size=32
+--stack-depth=16
+--no-close-console
+--mrte-mode=auto
+--heartbeat=1
+--enable-memory-growth
+--
+D:\individual task\x64\Debug\individual task.exe

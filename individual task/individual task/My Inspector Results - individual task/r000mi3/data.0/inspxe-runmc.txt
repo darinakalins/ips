@@ -1,0 +1,51 @@
+
+=== Start: [2018/11/30 14:30:42] === 
+Analysis started...
+Result file: D:\individual task\individual task\My Inspector Results - individual task\r000mi3\r000mi3.inspxe 
+Analysis started for D:\individual task\x64\Debug\individual task.exe (pid = 9116) 
+Loaded module: C:\windows\system32\USER32.dll, address range [0x76ad0000-0x76bc9fff], minimal analysis 
+Loaded module: C:\windows\system32\kernel32.dll, address range [0x76bd0000-0x76ceefff] 
+Loaded module: C:\windows\SYSTEM32\ntdll.dll, address range [0x76cf0000-0x76e99fff] 
+Loaded module: D:\individual task\x64\Debug\individual task.exe, address range [0x13ff70000-0x13ff9dfff] 
+Loaded module: C:\windows\system32\KERNELBASE.dll, address range [0x7fefcd30000-0x7fefcd99fff] 
+Loaded module: C:\windows\system32\IMM32.DLL, address range [0x7fefd190000-0x7fefd1bdfff], minimal analysis 
+Loaded module: C:\windows\system32\USP10.dll, address range [0x7fefd880000-0x7fefd94afff] 
+Loaded module: C:\windows\system32\msvcrt.dll, address range [0x7fefe8e0000-0x7fefe97efff] 
+Loaded module: C:\windows\system32\GDI32.dll, address range [0x7fefea90000-0x7fefeaf6fff] 
+Loaded module: C:\windows\system32\MSCTF.dll, address range [0x7fefeed0000-0x7fefefd8fff], minimal analysis 
+Loaded module: C:\windows\system32\LPK.dll, address range [0x7fefefe0000-0x7fefefedfff] 
+Loaded module: C:\windows\system32\MSVCP140D.dll, address range [0x7fee0450000-0x7fee0545fff] 
+Loaded module: C:\windows\system32\VCRUNTIME140D.dll, address range [0x7feef600000-0x7feef621fff] 
+Loaded module: C:\windows\system32\ucrtbased.dll, address range [0x7fed5ad0000-0x7fed5c8afff] 
+Loaded module: C:\windows\system32\api-ms-win-core-timezone-l1-1-0.dll, address range [0x7fef5360000-0x7fef5362fff] 
+Loaded module: C:\windows\system32\api-ms-win-core-file-l2-1-0.dll, address range [0x7fefa3a0000-0x7fefa3a2fff] 
+Loaded module: C:\windows\system32\api-ms-win-core-localization-l1-2-0.dll, address range [0x7fef51b0000-0x7fef51b2fff] 
+Loaded module: C:\windows\system32\api-ms-win-core-synch-l1-2-0.dll, address range [0x7fef1630000-0x7fef1632fff] 
+Loaded module: C:\windows\system32\api-ms-win-core-processthreads-l1-1-1.dll, address range [0x7fef4260000-0x7fef4262fff] 
+Loaded module: C:\windows\system32\api-ms-win-core-file-l1-2-0.dll, address range [0x7fef1580000-0x7fef1582fff] 
+Process D:\individual task\x64\Debug\individual task.exe exited with code 0. Leak analysis starting. Please wait... 
+Unloaded module: C:\windows\system32\USER32.dll 
+Unloaded module: C:\windows\system32\kernel32.dll 
+Unloaded module: C:\windows\SYSTEM32\ntdll.dll 
+Unloaded module: D:\individual task\x64\Debug\individual task.exe 
+Unloaded module: C:\windows\system32\KERNELBASE.dll 
+Unloaded module: C:\windows\system32\IMM32.DLL 
+Unloaded module: C:\windows\system32\USP10.dll 
+Unloaded module: C:\windows\system32\msvcrt.dll 
+Unloaded module: C:\windows\system32\GDI32.dll 
+Unloaded module: C:\windows\system32\MSCTF.dll 
+Unloaded module: C:\windows\system32\LPK.dll 
+Unloaded module: C:\windows\system32\MSVCP140D.dll 
+Unloaded module: C:\windows\system32\VCRUNTIME140D.dll 
+Unloaded module: C:\windows\system32\ucrtbased.dll 
+Unloaded module: C:\windows\system32\api-ms-win-core-timezone-l1-1-0.dll 
+Unloaded module: C:\windows\system32\api-ms-win-core-file-l2-1-0.dll 
+Unloaded module: C:\windows\system32\api-ms-win-core-localization-l1-2-0.dll 
+Unloaded module: C:\windows\system32\api-ms-win-core-synch-l1-2-0.dll 
+Unloaded module: C:\windows\system32\api-ms-win-core-processthreads-l1-1-1.dll 
+Unloaded module: C:\windows\system32\api-ms-win-core-file-l1-2-0.dll 
+Completed analysis for D:\individual task\x64\Debug\individual task.exe 
+Application exit code: 0 
+Result file: D:\individual task\individual task\My Inspector Results - individual task\r000mi3\r000mi3.inspxe 
+Analysis completed
+=== End: [2018/11/30 14:34:35] === 
